@@ -18,6 +18,8 @@
 cf push
 ```
 
+This service converts `text/plain` response body to the corresponding text banner using FIGlet.
+
 ## Create Route Service
 
 ```
