@@ -9,7 +9,9 @@
                                                       
 ```
 
-[FIGlet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service
+[FIGlet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service.
+
+This service converts `text/plain` response body to the corresponding text banner using FIGlet.
 
 ## Deploy to Pivotal Web Services
 
@@ -17,8 +19,6 @@
 ./mvnw clean package -DskipTests=true
 cf push
 ```
-
-This service converts `text/plain` response body to the corresponding text banner using FIGlet.
 
 ## Create Route Service
 
