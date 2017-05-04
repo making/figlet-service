@@ -1,0 +1,4 @@
+applications:
+- name: figlet-service
+  buildpack: java_buildpack
+  path: target/figlet-service-0.0.1-SNAPSHOT.jar
