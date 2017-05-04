@@ -1,15 +1,15 @@
 # figlet-service
 
 ```
-  _____   _           _          _   
- |  ___| (_)   __ _  | |   ___  | |_ 
- | |_    | |  / _` | | |  / _ \ | __|
- |  _|   | | | (_| | | | |  __/ | |_ 
- |_|     |_|  \__, | |_|  \___|  \__|
-              |___/                  
+  _____   ___    ____   _          _   
+ |  ___| |_ _|  / ___| | |   ___  | |_ 
+ | |_     | |  | |  _  | |  / _ \ | __|
+ |  _|    | |  | |_| | | | |  __/ | |_ 
+ |_|     |___|  \____| |_|  \___|  \__|
+                                                      
 ```
 
-[Figlet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service
+[FIGet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service
 
 ## Deploy to Pivotal Web Services
 
