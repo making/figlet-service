@@ -9,7 +9,7 @@
                                                       
 ```
 
-[FIGet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service
+[FIGlet](https://en.wikipedia.org/wiki/FIGlet) as a Cloud Foundry Route Service
 
 ## Deploy to Pivotal Web Services
 
